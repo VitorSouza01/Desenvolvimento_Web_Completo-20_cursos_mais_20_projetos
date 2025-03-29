@@ -1,0 +1,4 @@
+Web Developer
+
+A extensão "Web Developer" do Google Chrome adiciona ferramentas de desenvolvimento web ao navegador. Ela centraliza essas ferramentas em uma barra adicional. 
+Recursos da extensão Web Developer Validação, Redimensionamento de página, Leitor de elementos CSS, Acesso a mais ferramentas para desenvolvedores. 
